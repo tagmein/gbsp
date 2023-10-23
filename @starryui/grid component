@@ -1,0 +1,200 @@
+//Grid component takes arguments:
+interface MyGridComponent{
+    cellWidth: number;
+    cellHeight: number;
+    renderCell(x: number, y: number): HTMLElement;
+  }
+  
+  class MyGridComponent implements MyGridComponent {
+    cellWidth: number;
+    cellHeight: number;
+  
+    constructor(cellWidth: number, cellHeight: number) {
+      this.cellWidth = cellWidth;
+      this.cellHeight = cellHeight;
+    }
+  
+    renderCell(x: number, y: number): HTMLElement {
+      const cell = document.createElement('div');
+      cell.style.width = `${this.cellWidth}px`;
+      cell.style.height = `${this.cellHeight}px`;
+      cell.style.border = '1px solid black';
+      return cell;
+    }
+  
+//Grid component returns control object with properties:
+ //container: HTMLElement, refresh: (x?: number, y?: number) => void
+
+ interface GridControl {
+    container: HTMLElement;
+    refresh: (x?: number, y?: number) => void;
+  }
+  
+  function createGridControl(): GridControl {
+    const container = document.createElement('div'); // Container creation
+    container.classList.add('grid-container'); // Class addition
+  
+    function refresh(x?: number, y?: number) {
+      // Implement the refresh logic here
+      console.log(`Refreshing grid at (${x}, ${y})`);
+    }
+  
+    return {
+      container,
+      refresh,
+    };
+  }
+  
+
+//Grid component renders a grid within the returned control.container object, 
+//each cell having the given cellWidth and cellHeight
+    interface Cell {
+        x: number;
+        y: number;
+      }
+      
+      interface GridProps {
+        cellWidth: number;
+        cellHeight: number;
+      }
+      
+      class Grid {
+        container: HTMLElement;
+        maxX: number;
+        maxY: number;
+        cells: Cell[] = [];
+      
+        constructor(container: HTMLElement, props: GridProps) {
+          this.container = container;
+          this.maxX = Math.floor(container.clientWidth / props.cellWidth) - 1;
+          this.maxY = Math.floor(container.clientHeight / props.cellHeight) - 1;
+          this.renderGrid(props);
+        }
+      
+        renderGrid(props) {
+          for (let y = 0; y <= this.maxY; y++) {
+            for (let x = 0; x <= this.maxX; x++) {
+              this.cells.push({ x, y });
+            }
+          }
+      
+          this.cells.forEach((cell) => {
+            const cellElement = document.createElement('div');
+            cellElement.classList.add('cell');
+            cellElement.style.width = `${props.cellWidth}px`;
+            cellElement.style.height = `${props.cellHeight}px`;
+            cellElement.style.position = 'absolute';
+            cellElement.style.left = `${cell.x * props.cellWidth}px`;
+            cellElement.style.top = `${cell.y * props.cellHeight}px`;
+            this.container.appendChild(cellElement);
+          });
+        }
+      }
+
+      class grid {
+    private grid: number[][];
+
+    constructor(rows: number, columns: number) {
+        this.grid = Array.from({ length: rows }, () => Array(columns).fill(0));
+    }
+
+    refresh(x?: number, y?: number) {
+        if (x !== undefined && y !== undefined) {
+            this.refreshCell(x, y);
+        } else if (x !== undefined) {
+            this.refreshColumn(x);
+        } else if (y !== undefined) {
+            this.refreshRow(y);
+        } else {
+            this.refreshAll();
+        }
+    }
+
+    private refreshCell(x: number, y: number) {
+        this.grid[x][y] += 1;
+        console.log(`Refreshed cell (${x}, ${y})`);
+    }
+
+    private refreshColumn(x: number) {
+        for (let i = 0; i < this.grid.length; i++) {
+            this.grid[i][x] += 1;
+        }
+        console.log(`Refreshed column ${x}`);
+    }
+
+    private refreshRow(y: number) {
+        for (let i = 0; i < this.grid[y].length; i++) {
+            this.grid[y][i] += 1;
+        }
+        console.log(`Refreshed row ${y}`);
+    }
+
+    private refreshAll() {
+        for (let i = 0; i < this.grid.length; i++) {
+            for (let j = 0; j < this.grid[i].length; j++) {
+                this.grid[i][j] += 1;
+            }
+        }
+        console.log('Refreshed all cells');
+    }
+
+    printGrid() {
+        console.table(this.grid);
+    }
+}
+
+//Call to control.refresh refreshes a column if only x is specified, 
+//a row if only y is specified, a specific cell if x and y are both specified, 
+//and all cell if neither is specified
+
+class Control {
+    private grid: number[][];
+
+    constructor(rows: number, columns: number) {
+        this.grid = Array.from({ length: rows }, () => Array(columns).fill(0));
+    }
+
+    refresh(x?: number, y?: number) {
+        if (x !== undefined && y !== undefined) {
+            this.refreshCell(x, y);
+        } else if (x !== undefined) {
+            this.refreshColumn(x);
+        } else if (y !== undefined) {
+            this.refreshRow(y);
+        } else {
+            this.refreshAll();
+        }
+    }
+
+    private refreshCell(x: number, y: number) {
+        this.grid[x][y] += 1;
+        console.log(`Refreshed cell (${x}, ${y})`);
+    }
+
+    private refreshColumn(x: number) {
+        for (let i = 0; i < this.grid.length; i++) {
+            this.grid[i][x] += 1;
+        }
+        console.log(`Refreshed column ${x}`);
+    }
+
+    private refreshRow(y: number) {
+        for (let i = 0; i < this.grid[y].length; i++) {
+            this.grid[y][i] += 1;
+        }
+        console.log(`Refreshed row ${y}`);
+    }
+
+    private refreshAll() {
+        for (let i = 0; i < this.grid.length; i++) {
+            for (let j = 0; j < this.grid[i].length; j++) {
+                this.grid[i][j] += 1;
+            }
+        }
+        console.log('Refreshed all cells');
+    }
+
+    printGrid() {
+        console.table(this.grid);
+    }
+}
