@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book Details</title>
+    <link href="/dist/index.css" rel="stylesheet" />
+
+    <!-- Google popins font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div
+      class="px-2 sm:px-4 md:px-8 lg:px-16 xl:px-32 2xl:px-48 pt-8 pb-16 bg-white"
+    >
+      <div>
+        <img
+          src="./assets/book53-img.jpg"
+          alt="book-cover"
+          class="h-[300px] sm:h-[400px] 2xl:h-[450px] w-full object-cover rounded"
+        />
+      </div>
+
+      <div class="mt-4">
+        <h3 class="text-2xl sm:text-3xl font-semibold tracking-wider">
+          Working Effectively with Legacy Code
+        </h3>
+
+        <section>
+          <h4 class="text-xl font-medium">
+            In this chat we are discussing the book Working Effectively with
+            Legacy Code by Michael C Feathers. What is the main theme of the
+            book?
+          </h4>
+
+          <p class="mt-3">
+            The main theme of the book "Working Effectively with Legacy Code" by
+            Michael C Feathers is to provide practical techniques and strategies
+            for modifying, testing, and understanding legacy code, which is the
+            existing codebase that may not have been designed for
+            maintainability or testability. The book offers guidance on how to
+            make changes to legacy code in a way that reduces the risk of
+            introducing defects, and how to add tests to code that wasn't
+            originally designed for testing. It also emphasizes the importance
+            of understanding the codebase and its dependencies in order to make
+            effective changes. Overall, the book aims to help software
+            developers and engineers work with and improve legacy codebases in a
+            productive and efficient manner.
+          </p>
+
+          <h5 class="text-xl font-medium mt-3">
+            What are the top 3 concepts that the book discusses?
+          </h5>
+
+          <p class="my-3">
+            The book "Working Effectively with Legacy Code" covers several key
+            concepts and techniques for working with legacy code. Here are three
+            of the top concepts discussed in the book:
+          </p>
+
+          <ul class="list-decimal grid gap-y-3">
+            <li>
+              The concept of "seams": In the book, Feathers introduces the idea
+              of "seams" in code, which are areas where the code can be changed
+              without affecting the rest of the system. Seams can be used to
+              introduce new functionality or modify existing functionality in
+              legacy code without introducing defects or breaking the system.
+            </li>
+
+            <li>
+              Techniques for writing tests for legacy code: One of the biggest
+              challenges with legacy code is that it often wasn't designed with
+              testing in mind. The book covers several techniques for writing
+              tests for legacy code, including the use of test doubles (such as
+              mock objects and test stubs) and the creation of characterization
+              tests to understand the behavior of existing code.
+            </li>
+
+            <li>
+              Strategies for making incremental changes to legacy code: The book
+              emphasizes the importance of making incremental changes to legacy
+              code rather than attempting to rewrite the entire codebase from
+              scratch. Feathers offers strategies for making small, safe changes
+              to legacy code, such as refactoring code into smaller, more
+              manageable pieces and introducing new features through the use of
+              "sprout" classes that can be gradually integrated into the
+              existing codebase.
+            </li>
+          </ul>
+        </section>
+
+        <a
+          href="https://a.co/d/8010r5q"
+          target="_blank"
+          class="capitalize block mt-5 text-blue-500 underline hover:no-underline transition-all"
+        >
+          buy on amazon
+        </a>
+      </div>
+    </div>
+  </body>
+</html>
