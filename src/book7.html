@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book Details</title>
+    <link href="/dist/index.css" rel="stylesheet" />
+
+    <!-- Google popins font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div
+      class="px-2 sm:px-4 md:px-8 lg:px-16 xl:px-32 2xl:px-48 pt-8 pb-16 bg-white"
+    >
+      <div>
+        <img
+          src="./assets/book7-img.jpg"
+          alt="book-cover"
+          class="h-[300px] sm:h-[400px] 2xl:h-[450px] w-full object-cover rounded"
+        />
+      </div>
+
+      <div class="mt-4">
+        <h3 class="text-2xl sm:text-3xl font-semibold tracking-wider">
+          Clean Architecture
+        </h3>
+
+        <section>
+          <h4 class="text-xl font-medium">
+            In this chat we are discussing the book Clean Architecture by Robert
+            C Martin. What is the main theme of the book?
+          </h4>
+
+          <p class="mt-3">
+            The main theme of the book "Clean Architecture" by Robert C Martin
+            is to guide software developers in designing and implementing
+            software systems that are easy to understand, maintain, and extend
+            over time. The book presents a set of principles and patterns for
+            creating modular, testable, and maintainable software architectures
+            that are loosely coupled, highly cohesive, and independent of
+            specific technologies or frameworks. The author emphasizes the
+            importance of separating business logic from technical
+            implementation details, and provides guidelines for structuring
+            software systems in layers, components, and services that enforce
+            clear boundaries and interfaces. Overall, the book aims to help
+            software developers create software that is both reliable and
+            adaptable to changing requirements and technologies.
+          </p>
+
+          <p class="my-3">
+            The book "Clean Architecture" by Robert C Martin covers a range of
+            concepts related to software architecture and design. Here are the
+            top 3 concepts that the book discusses:
+          </p>
+
+          <ul class="list-decimal grid gap-y-3">
+            <li>
+              The Dependency Rule: This is one of the fundamental concepts of
+              the book, which states that the dependencies between components in
+              a software system should always point inward towards the
+              higher-level policies, and never outward towards the lower-level
+              details. This ensures that the higher-level policies are not
+              affected by changes in the lower-level details, making the system
+              more modular and easier to maintain.
+            </li>
+
+            <li>
+              The SOLID Principles: This is a set of five design principles that
+              help developers create software systems that are easy to
+              understand, maintain, and extend over time. The principles are
+              Single Responsibility, Open/Closed, Liskov Substitution, Interface
+              Segregation, and Dependency Inversion. These principles promote
+              code that is loosely coupled, highly cohesive, and independent of
+              specific technologies or frameworks.
+            </li>
+
+            <li>
+              Component-based Architecture: This is an approach to software
+              design that emphasizes the separation of concerns by breaking down
+              a system into smaller, reusable components. The components should
+              have well-defined interfaces and be loosely coupled, which makes
+              them easier to test and maintain. The book presents different
+              strategies for organizing components into layers, services, and
+              modules, depending on the specific needs of the system.
+            </li>
+          </ul>
+        </section>
+
+        <a
+          href="https://a.co/d/dnyNY4d"
+          target="_blank"
+          class="capitalize block mt-5 text-blue-500 underline hover:no-underline transition-all"
+        >
+          buy on amazon
+        </a>
+      </div>
+    </div>
+  </body>
+</html>
