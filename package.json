@@ -1,0 +1,15 @@
+{
+  "name": "gbsp-main",
+  "version": "1.0.0",
+  "description": "Global Book Summary Project: Help you find a book to read next",
+  "type": "module",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/index.css -o ./src/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
