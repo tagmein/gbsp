@@ -564,21 +564,12 @@ video {
   z-index: 10;
 }
 
-.my-3 {
-  margin-top: 0.75rem;
-  margin-bottom: 0.75rem;
-}
-
 .mb-2 {
   margin-bottom: 0.5rem;
 }
 
 .mb-4 {
   margin-bottom: 1rem;
-}
-
-.mt-3 {
-  margin-top: 0.75rem;
 }
 
 .mt-4 {
@@ -609,12 +600,12 @@ video {
   height: 180px;
 }
 
-.h-full {
-  height: 100%;
-}
-
 .h-\[300px\] {
   height: 300px;
+}
+
+.h-full {
+  height: 100%;
 }
 
 .min-h-\[450px\] {
@@ -631,10 +622,6 @@ video {
 
 .cursor-pointer {
   cursor: pointer;
-}
-
-.list-decimal {
-  list-style-type: decimal;
 }
 
 .grid-cols-1 {
@@ -663,10 +650,6 @@ video {
 
 .gap-3 {
   gap: 0.75rem;
-}
-
-.gap-y-3 {
-  row-gap: 0.75rem;
 }
 
 .rounded {
@@ -810,6 +793,24 @@ video {
   -webkit-clip-path: polygon(0% 0%, 100% 0, 100% calc(100% - 6vw), 0 100%, 0 100%);
           clip-path: polygon(0% 0%, 100% 0, 100% calc(100% - 6vw), 0 100%, 0 100%);
   margin-bottom: -6vw;
+}
+
+.content-wrapper p {
+  margin-top: 0.75rem;
+}
+
+.content-wrapper h5 {
+  margin-top: 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 500;
+}
+
+.content-wrapper ol {
+  margin-top: 0.75rem;
+  display: grid;
+  list-style-type: decimal;
+  row-gap: 0.75rem;
 }
 
 .hover\:scale-105:hover {
