@@ -1,10 +1,11 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "The Naked Now"
+featuredImage: "/images/book44-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 
 <!-- Main Theme Details -->
+
 The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
 
 Throughout the book, Ousterhout discusses various concepts and

@@ -1,6 +1,6 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "Center of the Cyclone"
+featuredImage: "/images/book6-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 

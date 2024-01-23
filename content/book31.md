@@ -1,6 +1,6 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "Ratio"
+featuredImage: "/images/book31-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 

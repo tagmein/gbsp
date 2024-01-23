@@ -1,6 +1,6 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "Falilng Upward"
+featuredImage: "/images/book15-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "Blitzscaling"
+featuredImage: "/images/book4-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "The Life of the Mind"
+featuredImage: "/images/book43-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 

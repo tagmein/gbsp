@@ -1,6 +1,6 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "On Growth and Form"
+featuredImage: "/images/book26-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 

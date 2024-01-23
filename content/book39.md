@@ -1,6 +1,6 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "The Collected Works of Ramana Maharshi"
+featuredImage: "/images/book39-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 

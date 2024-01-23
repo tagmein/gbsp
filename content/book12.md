@@ -1,6 +1,6 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "Discovery of the Presence of God"
+featuredImage: "/images/book12-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 

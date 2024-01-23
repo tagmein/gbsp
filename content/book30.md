@@ -1,6 +1,6 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "Quotations from Chairman Mao Tse-Tung"
+featuredImage: "/images/book30-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 

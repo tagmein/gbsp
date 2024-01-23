@@ -1,6 +1,6 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "The Diary of a Young Girl"
+featuredImage: "/images/book42-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 

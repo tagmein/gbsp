@@ -1,7 +1,7 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+title: "Better Capitalism"
+featuredImage: "/images/book3-img.jpg"
+amazonLink: "https://a.co/d/1yHEwUT"
 ---
 
 <!-- Main Theme Details -->

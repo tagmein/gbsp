@@ -1,6 +1,6 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "Working Effectively with Legacy Code"
+featuredImage: "/images/book53-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 

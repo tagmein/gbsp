@@ -1,6 +1,6 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "The 12 Bad Habits that Hold Good People Back"
+featuredImage: "/images/book35-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 

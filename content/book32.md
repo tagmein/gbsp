@@ -1,6 +1,6 @@
 ---
-title: "A World At Arms"
-featuredImage: "/images/book2-img.jpg"
+title: "Resonant Leadership"
+featuredImage: "/images/book32-img.jpg"
 amazonLink: "https://a.co/d/aDLq1y9"
 ---
 
