@@ -37,3 +37,4 @@ concepts related to software design. However, if I had to pick the top 3 concept
    discusses various techniques for simplifying code, such as reducing
    redundancy, minimizing the number of code paths, and using simpler
    data structures.
+
