@@ -1,5 +1,8 @@
 ---
 Hero: 
-    mainTitle: 'global book summary project'
-    btnTitle: 'explore books'
+    MainTitle: 'global book summary project'
+    BtnTitle: 'explore books'
+
+GridContainer: 
+    Title: 'available books'
 ---

@@ -1,3 +1,19 @@
-{{ define "main" }}
-{{ partial "hero.html" . }}
+{{ define "main" }} {{ partial "hero.html" . }}
+<div
+  id="books-grid"
+  class="px-2 sm:px-4 md:px-8 lg:px-16 xl:px-28 pt-32 pb-16 bg-white"
+>
+  <h2
+    class="inline-block text-blue-500 font-semibold text-2xl sm:text-3xl xl:text-4xl mb-4 capitalize"
+  >
+    {{ .Params.GridContainer.Title }}
+  </h2>
+
+  <div
+    class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3 xl:gap-5"
+  >
+    {{ range $.Site.Data.books.book }} {{ partial "grid-book.html" . }} {{ end
+    }}
+  </div>
+</div>
 {{ end }}
