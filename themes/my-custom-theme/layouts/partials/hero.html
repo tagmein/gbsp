@@ -1,0 +1,24 @@
+<section
+  class="relative min-h-[450px] grid place-content-center bg-study cliped-shape"
+>
+  <div
+    class="relative grid justify-items-center z-10 px-2 sm:px-4 md:px-8 lg:px-16 xl:px-28"
+  >
+    <h1
+      class="text-white text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-semibold capitalize tracking-wider mb-4"
+    >
+      {{ .Params.Hero.mainTitle }}
+    </h1>
+
+    <a
+      href="#books-grid"
+      class="flex items-center justify-center bg-white w-[200px] px-5 py-4 rounded-full font-medium capitalize"
+    >
+      {{ .Params.Hero.btnTitle }}
+    </a>
+  </div>
+
+  <div
+    class="absolute top-0 left-0 h-full w-full bg-opacity-50 bg-blue-800"
+  ></div>
+</section>
