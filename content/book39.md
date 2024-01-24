@@ -1,39 +1,45 @@
 ---
 title: "The Collected Works of Ramana Maharshi"
 featuredImage: "/images/book39-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+amazonLink: "https://a.co/d/c0PH5q7"
 ---
 
 <!-- Main Theme Details -->
-The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
 
-Throughout the book, Ousterhout discusses various concepts and
-techniques for achieving good software design, including modularization, abstraction, information hiding, simplicity, and generality. He also covers topics such as code organization, naming, documentation, and
-testing.
-
-The overarching goal of the book is to help software developers create
-code that is both functional and easy to modify, with the aim of
-reducing the cost and effort involved in maintaining software over the
-long term.
+The main theme of the book "The Collected Works of Ramana Maharshi"
+by Arthur Osborne is the teachings and philosophy of Sri Ramana
+Maharshi, a renowned Indian sage and spiritual teacher who lived in
+the early 20th century. The book is a collection of Ramana
+Maharshi's talks, conversations, and writings, which cover a wide
+range of spiritual topics, including self-inquiry, the nature of the
+self, the nature of reality, and the path to liberation. Ramana
+Maharshi's teachings emphasize the importance of self-knowledge and
+self-realization as the key to spiritual awakening and freedom from
+suffering. The book is considered a classic in the field of
+spiritual literature and has been a source of inspiration and
+guidance for many seekers on the spiritual path.
 
 ##### What are the top 3 concepts that the book discusses?
 
-The book "A Philosophy of Software Design" covers many important
-concepts related to software design. However, if I had to pick the top 3 concepts discussed in the book, they would be:
+The book "The Collected Works of Ramana Maharshi" covers a wide
+range of spiritual topics, but here are three key concepts that are
+central to Ramana Maharshi's teachings:
 
-1. Modularity: The book emphasizes the importance of modular design,
-   which involves breaking down complex systems into smaller, more
-   manageable pieces. Ousterhout argues that modular design can make it
-   easier to understand, modify, and maintain software over time, by
-   reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
-   a simpler interface, which can make it easier to reason about and
-   modify code. The book discusses how to identify and create good
-   abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
-   simple and avoiding unnecessary complexity. Ousterhout argues that
-   simplicity can make it easier to reason about and modify code, and can
-   also reduce the likelihood of bugs and other errors. The book
-   discusses various techniques for simplifying code, such as reducing
-   redundancy, minimizing the number of code paths, and using simpler
-   data structures.
+1. Self-Inquiry: Ramana Maharshi's primary teaching is the method of
+   self-inquiry, which involves questioning the nature of the self
+   and seeking the source of the "I" thought. Through this process of
+   introspection and self-inquiry, one can come to realize the true
+   nature of the self as pure consciousness, beyond the limitations
+   of the body and mind.
+1. Non-dualism: Ramana Maharshi's teachings emphasize the non-dual
+   nature of reality, which means that there is no ultimate
+   separation between the self and the world. He teaches that the
+   self is not separate from the ultimate reality or the divine, but
+   rather is identical to it. This realization of non-dualism is said
+   to be the key to spiritual liberation.
+1. Surrender: While self-inquiry is the primary method for realizing
+   the self, Ramana Maharshi also teaches the importance of
+   surrendering to the divine or the ultimate reality. This surrender
+   involves letting go of the ego and surrendering to a higher power,
+   allowing it to guide and direct one's life towards spiritual
+   realization.

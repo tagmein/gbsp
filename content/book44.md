@@ -1,40 +1,43 @@
 ---
 title: "The Naked Now"
 featuredImage: "/images/book44-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+amazonLink: "https://a.co/d/3q5cUaF"
 ---
 
 <!-- Main Theme Details -->
 
-The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
-
-Throughout the book, Ousterhout discusses various concepts and
-techniques for achieving good software design, including modularization, abstraction, information hiding, simplicity, and generality. He also covers topics such as code organization, naming, documentation, and
-testing.
-
-The overarching goal of the book is to help software developers create
-code that is both functional and easy to modify, with the aim of
-reducing the cost and effort involved in maintaining software over the
-long term.
+The main theme of "The Naked Now" by Richard Rohr is the concept of
+contemplation and its role in spiritual growth and development. Rohr
+argues that the practice of contemplation is essential to fully
+experiencing the present moment, as well as developing a deeper
+connection with God and the world around us. He draws on insights
+from various spiritual traditions, including Christianity, Buddhism,
+and Hinduism, to demonstrate the universality and importance of
+contemplation. Rohr also explores the ways in which our culture's
+focus on materialism, consumerism, and instant gratification can
+hinder our ability to engage in contemplation and experience true
+fulfillment. Overall, the book presents contemplation as a powerful
+tool for spiritual transformation and encourages readers to
+incorporate it into their daily lives.
 
 ##### What are the top 3 concepts that the book discusses?
 
-The book "A Philosophy of Software Design" covers many important
-concepts related to software design. However, if I had to pick the top 3 concepts discussed in the book, they would be:
-
-1. Modularity: The book emphasizes the importance of modular design,
-   which involves breaking down complex systems into smaller, more
-   manageable pieces. Ousterhout argues that modular design can make it
-   easier to understand, modify, and maintain software over time, by
-   reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
-   a simpler interface, which can make it easier to reason about and
-   modify code. The book discusses how to identify and create good
-   abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
-   simple and avoiding unnecessary complexity. Ousterhout argues that
-   simplicity can make it easier to reason about and modify code, and can
-   also reduce the likelihood of bugs and other errors. The book
-   discusses various techniques for simplifying code, such as reducing
-   redundancy, minimizing the number of code paths, and using simpler
-   data structures.
+1. The importance of contemplation: The book argues that
+   contemplation is a crucial practice for spiritual growth and
+   development. Rohr suggests that through contemplation, we can
+   experience the present moment more fully and deeply, and connect
+   more deeply with God and the world around us.
+1. The idea of "non-dual thinking": Another key concept in the book
+   is the idea of "non-dual thinking," which refers to a way of
+   thinking that transcends binary oppositions (e.g., good vs. evil,
+   right vs. wrong) and embraces paradox and ambiguity. Rohr argues
+   that non-dual thinking is essential to spiritual growth and allows
+   us to see beyond the limitations of our egos and connect more
+   deeply with others and the world around us.
+1. The role of mysticism: The book also explores the role of
+   mysticism in spiritual growth and development. Rohr argues that
+   mysticism, or the direct experience of God or the divine, is not
+   just reserved for a select few but is available to everyone. He
+   suggests that by engaging in contemplative practices, we can
+   cultivate the capacity for mystical experience and connect more
+   deeply with the divine.

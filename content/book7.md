@@ -1,39 +1,47 @@
 ---
 title: "Clean Architecture"
 featuredImage: "/images/book7-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+amazonLink: "https://a.co/d/dnyNY4d"
 ---
 
 <!-- Main Theme Details -->
-The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
 
-Throughout the book, Ousterhout discusses various concepts and
-techniques for achieving good software design, including modularization, abstraction, information hiding, simplicity, and generality. He also covers topics such as code organization, naming, documentation, and
-testing.
+The main theme of the book "Clean Architecture" by Robert C Martin
+is to guide software developers in designing and implementing
+software systems that are easy to understand, maintain, and extend
+over time. The book presents a set of principles and patterns for
+creating modular, testable, and maintainable software architectures
+that are loosely coupled, highly cohesive, and independent of
+specific technologies or frameworks. The author emphasizes the
+importance of separating business logic from technical
+implementation details, and provides guidelines for structuring
+software systems in layers, components, and services that enforce
+clear boundaries and interfaces. Overall, the book aims to help
+software developers create software that is both reliable and
+adaptable to changing requirements and technologies.
 
-The overarching goal of the book is to help software developers create
-code that is both functional and easy to modify, with the aim of
-reducing the cost and effort involved in maintaining software over the
-long term.
+The book "Clean Architecture" by Robert C Martin covers a range of
+concepts related to software architecture and design. Here are the
+top 3 concepts that the book discusses:
 
-##### What are the top 3 concepts that the book discusses?
-
-The book "A Philosophy of Software Design" covers many important
-concepts related to software design. However, if I had to pick the top 3 concepts discussed in the book, they would be:
-
-1. Modularity: The book emphasizes the importance of modular design,
-   which involves breaking down complex systems into smaller, more
-   manageable pieces. Ousterhout argues that modular design can make it
-   easier to understand, modify, and maintain software over time, by
-   reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
-   a simpler interface, which can make it easier to reason about and
-   modify code. The book discusses how to identify and create good
-   abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
-   simple and avoiding unnecessary complexity. Ousterhout argues that
-   simplicity can make it easier to reason about and modify code, and can
-   also reduce the likelihood of bugs and other errors. The book
-   discusses various techniques for simplifying code, such as reducing
-   redundancy, minimizing the number of code paths, and using simpler
-   data structures.
+1. The Dependency Rule: This is one of the fundamental concepts of
+   the book, which states that the dependencies between components in
+   a software system should always point inward towards the
+   higher-level policies, and never outward towards the lower-level
+   details. This ensures that the higher-level policies are not
+   affected by changes in the lower-level details, making the system
+   more modular and easier to maintain.
+1. The SOLID Principles: This is a set of five design principles that
+   help developers create software systems that are easy to
+   understand, maintain, and extend over time. The principles are
+   Single Responsibility, Open/Closed, Liskov Substitution, Interface
+   Segregation, and Dependency Inversion. These principles promote
+   code that is loosely coupled, highly cohesive, and independent of
+   specific technologies or frameworks.
+1. Component-based Architecture: This is an approach to software
+   design that emphasizes the separation of concerns by breaking down
+   a system into smaller, reusable components. The components should
+   have well-defined interfaces and be loosely coupled, which makes
+   them easier to test and maintain. The book presents different
+   strategies for organizing components into layers, services, and
+   modules, depending on the specific needs of the system.

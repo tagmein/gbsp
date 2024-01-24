@@ -1,39 +1,49 @@
 ---
 title: "I, Reality and Subjectivity"
 featuredImage: "/images/book21-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+amazonLink: "https://www.amazon.com/dp/B08W853Q2D?ref_=cm_sw_r_cp_ud_dp_6T6B8WHBAX8F9HF3MBP0&peakEvent=5&dealEvent=1"
 ---
 
 <!-- Main Theme Details -->
-The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
 
-Throughout the book, Ousterhout discusses various concepts and
-techniques for achieving good software design, including modularization, abstraction, information hiding, simplicity, and generality. He also covers topics such as code organization, naming, documentation, and
-testing.
-
-The overarching goal of the book is to help software developers create
-code that is both functional and easy to modify, with the aim of
-reducing the cost and effort involved in maintaining software over the
-long term.
+I, Reality and Subjectivity by David R. Hawkins, MD, PhD explores
+the nature of consciousness, reality, and the self. The main theme
+of the book is the understanding that our perception of reality is
+not fixed, but rather it is a product of our subjective experience
+and the level of consciousness we operate from. The book proposes a
+model of consciousness that describes a hierarchy of levels, each
+with its own unique characteristics and ways of perceiving reality.
+It also explores the relationship between consciousness and the
+physical world, and the role of intention and awareness in shaping
+our reality. Overall, the book presents a comprehensive framework
+for understanding the nature of consciousness and how it shapes our
+experience of reality.
 
 ##### What are the top 3 concepts that the book discusses?
 
-The book "A Philosophy of Software Design" covers many important
-concepts related to software design. However, if I had to pick the top 3 concepts discussed in the book, they would be:
+The book I, Reality and Subjectivity by David R. Hawkins, MD, PhD
+covers many important concepts related to consciousness and reality.
+However, here are three key concepts that the book discusses in
+depth:
 
-1. Modularity: The book emphasizes the importance of modular design,
-   which involves breaking down complex systems into smaller, more
-   manageable pieces. Ousterhout argues that modular design can make it
-   easier to understand, modify, and maintain software over time, by
-   reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
-   a simpler interface, which can make it easier to reason about and
-   modify code. The book discusses how to identify and create good
-   abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
-   simple and avoiding unnecessary complexity. Ousterhout argues that
-   simplicity can make it easier to reason about and modify code, and can
-   also reduce the likelihood of bugs and other errors. The book
-   discusses various techniques for simplifying code, such as reducing
-   redundancy, minimizing the number of code paths, and using simpler
-   data structures.
+1. Levels of Consciousness: One of the main concepts of the book is
+   the idea that consciousness is not a singular state, but rather a
+   hierarchy of levels. Hawkins describes a model of consciousness
+   that includes different levels, each with its own unique
+   characteristics and ways of perceiving reality. The book explains
+   that as individuals raise their level of consciousness, they gain
+   access to a broader range of experience and greater understanding
+   of reality.
+1. The Nature of Reality: The book also explores the nature of
+   reality and how our perception of reality is shaped by our level
+   of consciousness. It suggests that reality is not fixed or
+   objective, but rather it is a product of our subjective
+   experience. The book proposes that our perception of reality is
+   influenced by factors such as intention, attention, and context.
+1. Power of Intention: Another important concept discussed in the
+   book is the power of intention. The author suggests that intention
+   is a powerful force that can influence our reality. By setting
+   clear intentions, individuals can align themselves with their
+   desired outcome and create positive change in their lives. The
+   book also discusses the role of intention in spiritual growth and
+   the development of consciousness.

@@ -1,39 +1,37 @@
 ---
 title: "Three Cups of Tea"
 featuredImage: "/images/book49-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+amazonLink: "https://a.co/d/aIWy6mx"
 ---
 
 <!-- Main Theme Details -->
-The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
 
-Throughout the book, Ousterhout discusses various concepts and
-techniques for achieving good software design, including modularization, abstraction, information hiding, simplicity, and generality. He also covers topics such as code organization, naming, documentation, and
-testing.
-
-The overarching goal of the book is to help software developers create
-code that is both functional and easy to modify, with the aim of
-reducing the cost and effort involved in maintaining software over the
-long term.
+The main theme of "Three Cups of Tea" is the power of education to
+overcome poverty, ignorance, and extremism. Mortenson's story
+demonstrates how education, particularly for girls, can lead to
+long-term positive change in impoverished communities. The book also
+highlights the challenges and obstacles faced by those working to
+improve the lives of people in such communities, including cultural
+barriers, political instability, and terrorism.
 
 ##### What are the top 3 concepts that the book discusses?
 
-The book "A Philosophy of Software Design" covers many important
-concepts related to software design. However, if I had to pick the top 3 concepts discussed in the book, they would be:
+The top 3 concepts that "Three Cups of Tea" discusses are:
 
-1. Modularity: The book emphasizes the importance of modular design,
-   which involves breaking down complex systems into smaller, more
-   manageable pieces. Ousterhout argues that modular design can make it
-   easier to understand, modify, and maintain software over time, by
-   reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
-   a simpler interface, which can make it easier to reason about and
-   modify code. The book discusses how to identify and create good
-   abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
-   simple and avoiding unnecessary complexity. Ousterhout argues that
-   simplicity can make it easier to reason about and modify code, and can
-   also reduce the likelihood of bugs and other errors. The book
-   discusses various techniques for simplifying code, such as reducing
-   redundancy, minimizing the number of code paths, and using simpler
-   data structures.
+1. Education: The book emphasizes the importance of education in
+   empowering individuals and communities to improve their lives.
+   Mortenson believes that education, particularly for girls, is the
+   key to breaking the cycle of poverty and ignorance in impoverished
+   regions.
+1. Cultural Understanding: Mortenson's experiences in Pakistan and
+   Afghanistan highlight the importance of cultural understanding in
+   bridging the gap between different societies. He learned to
+   appreciate and respect the customs and traditions of the
+   communities he worked with, which helped him build trust and gain
+   their support.
+1. Perseverance: Mortenson's story demonstrates the importance of
+   perseverance in achieving one's goals. Despite facing numerous
+   obstacles, including financial struggles, political instability,
+   and physical danger, Mortenson remained committed to his mission
+   of building schools in remote areas of Pakistan and Afghanistan.
+   His determination and resilience are an inspiration to readers.

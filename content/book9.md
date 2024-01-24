@@ -1,39 +1,41 @@
 ---
 title: "Conscious"
 featuredImage: "/images/book9-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+amazonLink: "https://a.co/d/fQ2kvw7"
 ---
 
 <!-- Main Theme Details -->
-The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
 
-Throughout the book, Ousterhout discusses various concepts and
-techniques for achieving good software design, including modularization, abstraction, information hiding, simplicity, and generality. He also covers topics such as code organization, naming, documentation, and
-testing.
-
-The overarching goal of the book is to help software developers create
-code that is both functional and easy to modify, with the aim of
-reducing the cost and effort involved in maintaining software over the
-long term.
+Conscious by Annaka Harris explores the nature of consciousness,
+examining the latest scientific research and philosophical
+perspectives on the topic. The book's main theme is to present the
+idea that consciousness is a fundamental aspect of the universe,
+rather than a byproduct of brain activity. Harris argues that
+consciousness is not limited to human beings and other animals, but
+may be a property of all matter in the universe, in various degrees
+of complexity. She also explores the implications of this view for
+our understanding of the mind, free will, and the nature of reality.
 
 ##### What are the top 3 concepts that the book discusses?
 
-The book "A Philosophy of Software Design" covers many important
-concepts related to software design. However, if I had to pick the top 3 concepts discussed in the book, they would be:
+It's difficult to narrow down the top 3 concepts from a book as rich
+and multifaceted as Conscious, but here are three key concepts that
+are central to the book's argument:
 
-1. Modularity: The book emphasizes the importance of modular design,
-   which involves breaking down complex systems into smaller, more
-   manageable pieces. Ousterhout argues that modular design can make it
-   easier to understand, modify, and maintain software over time, by
-   reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
-   a simpler interface, which can make it easier to reason about and
-   modify code. The book discusses how to identify and create good
-   abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
-   simple and avoiding unnecessary complexity. Ousterhout argues that
-   simplicity can make it easier to reason about and modify code, and can
-   also reduce the likelihood of bugs and other errors. The book
-   discusses various techniques for simplifying code, such as reducing
-   redundancy, minimizing the number of code paths, and using simpler
-   data structures.
+1. Consciousness as a fundamental aspect of the universe: Harris
+   argues that consciousness is not simply a byproduct of brain
+   activity, but rather a fundamental aspect of the universe that
+   exists at all levels of complexity, from subatomic particles to
+   human beings.
+1. The illusion of the self: Harris explores the idea that our sense
+   of being a distinct and continuous "self" is an illusion created
+   by the brain. She argues that the self is a construct that arises
+   from the continuous stream of thoughts, perceptions, and
+   sensations that make up our experience.
+1. The implications of a panpsychist view of consciousness: Harris
+   considers the implications of the idea that consciousness is a
+   fundamental aspect of the universe for our understanding of the
+   mind, free will, and the nature of reality. She suggests that a
+   panpsychist view of consciousness may lead to a more holistic and
+   interconnected understanding of the universe, and could challenge
+   some of our assumptions about the nature of reality.

@@ -26,11 +26,11 @@ concepts related to software design. However, if I had to pick the top 3 concept
    manageable pieces. Ousterhout argues that modular design can make it
    easier to understand, modify, and maintain software over time, by
    reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
+2. Abstraction: Abstraction involves hiding implementation details behind
    a simpler interface, which can make it easier to reason about and
    modify code. The book discusses how to identify and create good
    abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
+3. Simplification: The book emphasizes the importance of keeping software
    simple and avoiding unnecessary complexity. Ousterhout argues that
    simplicity can make it easier to reason about and modify code, and can
    also reduce the likelihood of bugs and other errors. The book

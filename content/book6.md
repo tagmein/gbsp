@@ -1,39 +1,47 @@
 ---
 title: "Center of the Cyclone"
 featuredImage: "/images/book6-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+amazonLink: "https://a.co/d/dNPgaFT"
 ---
 
 <!-- Main Theme Details -->
-The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
 
-Throughout the book, Ousterhout discusses various concepts and
-techniques for achieving good software design, including modularization, abstraction, information hiding, simplicity, and generality. He also covers topics such as code organization, naming, documentation, and
-testing.
-
-The overarching goal of the book is to help software developers create
-code that is both functional and easy to modify, with the aim of
-reducing the cost and effort involved in maintaining software over the
-long term.
+The main theme of the book "The Center of the Cyclone" by Dr. John
+C. Lilly is his exploration of altered states of consciousness,
+including his own experiences with sensory deprivation, psychoactive
+drugs, and meditative practices. The book is a collection of essays
+and personal reflections that document Lilly's experiences and
+insights, as well as his theories on the nature of consciousness and
+its relationship to the human brain. Through his explorations, Lilly
+challenges conventional beliefs about the nature of reality, and
+offers a new perspective on the human experience and the potential
+for personal growth and transformation.
 
 ##### What are the top 3 concepts that the book discusses?
 
-The book "A Philosophy of Software Design" covers many important
-concepts related to software design. However, if I had to pick the top 3 concepts discussed in the book, they would be:
+The book "The Center of the Cyclone" covers a wide range of topics
+related to altered states of consciousness and the nature of
+reality. However, here are three key concepts that are particularly
+prominent throughout the book:
 
-1. Modularity: The book emphasizes the importance of modular design,
-   which involves breaking down complex systems into smaller, more
-   manageable pieces. Ousterhout argues that modular design can make it
-   easier to understand, modify, and maintain software over time, by
-   reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
-   a simpler interface, which can make it easier to reason about and
-   modify code. The book discusses how to identify and create good
-   abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
-   simple and avoiding unnecessary complexity. Ousterhout argues that
-   simplicity can make it easier to reason about and modify code, and can
-   also reduce the likelihood of bugs and other errors. The book
-   discusses various techniques for simplifying code, such as reducing
-   redundancy, minimizing the number of code paths, and using simpler
-   data structures.
+1. The exploration of altered states of consciousness: The book
+   explores various methods of inducing altered states of
+   consciousness, including sensory deprivation tanks, psychoactive
+   drugs, and meditation. Lilly reflects on his personal experiences
+   with these methods, and the profound insights and revelations they
+   have provided him.
+1. The nature of consciousness: Another important theme in the book
+   is Lilly's theories on the nature of consciousness. He suggests
+   that consciousness is not solely a product of the brain, but
+   rather a fundamental aspect of the universe that permeates all of
+   reality. He also explores the idea of a collective unconscious,
+   and the possibility of communication with non-human entities
+   through altered states of consciousness.
+1. The relationship between science and spirituality: The book also
+   discusses the relationship between science and spirituality, and
+   the limitations of scientific inquiry when it comes to
+   understanding subjective experiences such as altered states of
+   consciousness. Lilly argues that a new kind of science is needed
+   that incorporates subjective experiences into its methodology, and
+   that embraces the possibility of non-physical dimensions of
+   reality.

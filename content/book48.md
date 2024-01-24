@@ -1,39 +1,53 @@
 ---
 title: "The Wisdom Pattern"
 featuredImage: "/images/book48-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+amazonLink: "https://a.co/d/fix8LFx"
 ---
 
 <!-- Main Theme Details -->
-The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
 
-Throughout the book, Ousterhout discusses various concepts and
-techniques for achieving good software design, including modularization, abstraction, information hiding, simplicity, and generality. He also covers topics such as code organization, naming, documentation, and
-testing.
+The main theme of the book "The Wisdom Pattern" by Richard Rohr is
+the idea of wisdom as a path to spiritual transformation and growth.
+Rohr argues that true wisdom is not simply a matter of acquiring
+knowledge or intelligence, but rather a deeper understanding that
+comes from a life of contemplation and practice.
 
-The overarching goal of the book is to help software developers create
-code that is both functional and easy to modify, with the aim of
-reducing the cost and effort involved in maintaining software over the
-long term.
+The book explores the idea that wisdom is a pattern of thinking and
+living that is grounded in a deep sense of interconnectedness with
+all things, and that this pattern can be cultivated through
+practices such as meditation, prayer, and service to others.s
+
+Rohr draws on a range of sources, including biblical texts,
+spiritual traditions from around the world, and modern psychology
+and neuroscience, to present a comprehensive vision of wisdom as a
+path to personal and collective transformation. Ultimately, the book
+encourages readers to embrace wisdom as a way of living and being in
+the world, and to work towards a more just and compassionate
+society.
 
 ##### What are the top 3 concepts that the book discusses?
 
-The book "A Philosophy of Software Design" covers many important
-concepts related to software design. However, if I had to pick the top 3 concepts discussed in the book, they would be:
+It's difficult to narrow down the top 3 concepts from "The Wisdom
+Pattern" by Richard Rohr, as the book covers a wide range of
+interconnected ideas. However, here are three key concepts that are
+central to the book's message:
 
-1. Modularity: The book emphasizes the importance of modular design,
-   which involves breaking down complex systems into smaller, more
-   manageable pieces. Ousterhout argues that modular design can make it
-   easier to understand, modify, and maintain software over time, by
-   reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
-   a simpler interface, which can make it easier to reason about and
-   modify code. The book discusses how to identify and create good
-   abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
-   simple and avoiding unnecessary complexity. Ousterhout argues that
-   simplicity can make it easier to reason about and modify code, and can
-   also reduce the likelihood of bugs and other errors. The book
-   discusses various techniques for simplifying code, such as reducing
-   redundancy, minimizing the number of code paths, and using simpler
-   data structures.
+1. Wisdom as a Path of Transformation: The book emphasizes that true
+   wisdom is not just about acquiring knowledge, but rather a way of
+   living that is grounded in a deep sense of interconnectedness with
+   all things. This wisdom is cultivated through practices like
+   meditation, contemplation, and service to others, and it leads to
+   personal and collective transformation.
+1. The Importance of Contemplation: Rohr argues that in our busy,
+   distracted world, we often overlook the value of contemplation, or
+   the practice of sitting in silence and simply being present to our
+   thoughts and feelings. He believes that contemplation is essential
+   for cultivating wisdom, and that it can help us develop a deeper
+   sense of compassion and empathy for others.
+1. The Interconnectedness of All Things: Another key concept in the
+   book is the idea that everything in the universe is
+   interconnected. Rohr argues that we are all part of a larger
+   cosmic web of life, and that our actions and decisions have ripple
+   effects that extend far beyond our individual lives. This
+   understanding of interconnectedness is essential for cultivating
+   wisdom and living in harmony with the world around us.

@@ -1,39 +1,50 @@
 ---
 title: "Programming and Metaprogramming the Human Biocomputer"
 featuredImage: "/images/book28-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+amazonLink: "https://a.co/d/5l5kKJ4"
 ---
 
 <!-- Main Theme Details -->
-The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
 
-Throughout the book, Ousterhout discusses various concepts and
-techniques for achieving good software design, including modularization, abstraction, information hiding, simplicity, and generality. He also covers topics such as code organization, naming, documentation, and
-testing.
+Programming and Metaprogramming the Human Biocomputer is a book
+written by Dr. John C Lilly, a physician and neuroscientist, that
+explores the human mind and its potential for self-programming and
+transformation.
 
-The overarching goal of the book is to help software developers create
-code that is both functional and easy to modify, with the aim of
-reducing the cost and effort involved in maintaining software over the
-long term.
+The main theme of the book is the concept of the human mind as a
+biocomputer, which can be programmed and reprogrammed to change
+behavior and thought patterns. Dr. Lilly argues that our minds are
+not fixed, but can be influenced by the way we perceive and interact
+with the world around us.
+
+The book explores various methods for programming and
+metaprogramming the human biocomputer, including sensory
+deprivation, psychedelic drugs, and meditation. Dr. Lilly also
+discusses the implications of this theory for personal growth,
+creativity, and spiritual development.
+
+Overall, the book is a fascinating exploration of the human mind and
+its potential for transformation, and offers insights into the
+nature of consciousness and reality.
 
 ##### What are the top 3 concepts that the book discusses?
 
-The book "A Philosophy of Software Design" covers many important
-concepts related to software design. However, if I had to pick the top 3 concepts discussed in the book, they would be:
+There are many important concepts discussed in Programming and
+Metaprogramming the Human Biocomputer by Dr. John C Lilly. However,
+here are three key concepts from the book:
 
-1. Modularity: The book emphasizes the importance of modular design,
-   which involves breaking down complex systems into smaller, more
-   manageable pieces. Ousterhout argues that modular design can make it
-   easier to understand, modify, and maintain software over time, by
-   reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
-   a simpler interface, which can make it easier to reason about and
-   modify code. The book discusses how to identify and create good
-   abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
-   simple and avoiding unnecessary complexity. Ousterhout argues that
-   simplicity can make it easier to reason about and modify code, and can
-   also reduce the likelihood of bugs and other errors. The book
-   discusses various techniques for simplifying code, such as reducing
-   redundancy, minimizing the number of code paths, and using simpler
-   data structures.
+1. The human mind as a biocomputer: Dr. Lilly presents the idea that
+   the human mind can be seen as a computer made up of the brain and
+   nervous system, which can be programmed and reprogrammed through
+   various methods.
+1. Programming and metaprogramming: The book explores the ways in
+   which individuals can program and reprogram their own minds, as
+   well as the ways in which external forces can program them. Dr.
+   Lilly discusses methods such as sensory deprivation, psychedelic
+   drugs, and meditation as ways to achieve this.s
+1. The nature of reality and consciousness: The book delves into the
+   nature of consciousness and its relationship to reality,
+   discussing the ways in which our perceptions shape our experiences
+   and the world around us. Dr. Lilly argues that the mind and
+   consciousness are not fixed entities, but are constantly evolving
+   and changing.s

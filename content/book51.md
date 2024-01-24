@@ -1,39 +1,49 @@
 ---
 title: "Under Cover John Bevere"
 featuredImage: "/images/book51-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+amazonLink: "https://a.co/d/b0hOlzg"
 ---
 
 <!-- Main Theme Details -->
-The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
 
-Throughout the book, Ousterhout discusses various concepts and
-techniques for achieving good software design, including modularization, abstraction, information hiding, simplicity, and generality. He also covers topics such as code organization, naming, documentation, and
-testing.
+Under Cover by John Bevere is a Christian book that discusses the
+importance of submission to authority, both in the spiritual and
+natural realms. The main theme of the book is that God has
+established a system of authority in the world, and it is the
+responsibility of every Christian to submit to and honor those in
+positions of authority over them, whether in the church, government,
+workplace, or family.
 
-The overarching goal of the book is to help software developers create
-code that is both functional and easy to modify, with the aim of
-reducing the cost and effort involved in maintaining software over the
-long term.
+Bevere argues that disobedience to authority is a form of rebellion,
+and can lead to negative consequences both in this life and in the
+spiritual realm. Conversely, submission to authority brings
+blessings and protection, as well as a greater understanding of
+God's ultimate authority.
+
+Throughout the book, Bevere uses biblical examples and personal
+stories to illustrate the importance of submission to authority, and
+provides practical guidance on how to submit in a way that honors
+God and respects those in authority.
 
 ##### What are the top 3 concepts that the book discusses?
 
-The book "A Philosophy of Software Design" covers many important
-concepts related to software design. However, if I had to pick the top 3 concepts discussed in the book, they would be:
-
-1. Modularity: The book emphasizes the importance of modular design,
-   which involves breaking down complex systems into smaller, more
-   manageable pieces. Ousterhout argues that modular design can make it
-   easier to understand, modify, and maintain software over time, by
-   reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
-   a simpler interface, which can make it easier to reason about and
-   modify code. The book discusses how to identify and create good
-   abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
-   simple and avoiding unnecessary complexity. Ousterhout argues that
-   simplicity can make it easier to reason about and modify code, and can
-   also reduce the likelihood of bugs and other errors. The book
-   discusses various techniques for simplifying code, such as reducing
-   redundancy, minimizing the number of code paths, and using simpler
-   data structures.
+1. Submission to Authority: The book's main theme is the importance
+   of submitting to authority. Bevere argues that God has established
+   a system of authority in the world, and that we must honor and
+   submit to those in positions of authority over us, whether in the
+   church, government, workplace, or family. He also discusses the
+   consequences of disobedience to authority and the benefits of
+   submission.
+1. Rebellion: Another important concept in the book is rebellion.
+   Bevere discusses how disobedience to authority is a form of
+   rebellion against God's established order, and can lead to
+   negative consequences both in this life and in the spiritual
+   realm. He emphasizes the need to repent of rebellion and submit to
+   authority in order to experience God's blessings and protection.
+1. Fear of God: The book also emphasizes the importance of having a
+   healthy fear of God. Bevere argues that the fear of God is not a
+   negative emotion, but a reverence and respect for God's authority
+   and power. He emphasizes that our submission to authority is
+   ultimately rooted in our submission to God, and that a proper fear
+   of God will lead us to honor and obey those in positions of
+   authority over us.

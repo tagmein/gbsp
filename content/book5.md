@@ -1,39 +1,53 @@
 ---
 title: "Better Capitalism"
 featuredImage: "/images/book5-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+amazonLink: "https://a.co/d/3DLK6u1"
 ---
 
 <!-- Main Theme Details -->
-The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
 
-Throughout the book, Ousterhout discusses various concepts and
-techniques for achieving good software design, including modularization, abstraction, information hiding, simplicity, and generality. He also covers topics such as code organization, naming, documentation, and
-testing.
+Breathing Under Water by Richard Rohr is a spiritual self-help book
+that explores the idea of addiction and recovery through a Christian
+lens. The main theme of the book is that the path to spiritual
+growth and transformation is similar to the path of recovery from
+addiction. Rohr argues that everyone is addicted to something,
+whether it be substances, people, money, power, or status. He
+believes that the root of all addiction is a deep-seated sense of
+disconnection from ourselves, others, and God.
 
-The overarching goal of the book is to help software developers create
-code that is both functional and easy to modify, with the aim of
-reducing the cost and effort involved in maintaining software over the
-long term.
+Through a series of meditations and reflections, Rohr offers a
+framework for understanding addiction and recovery as a spiritual
+journey. He draws on Christian teachings and the wisdom of the
+Twelve-Step program to explore the stages of transformation that are
+necessary for recovery from addiction, including surrender,
+awareness, confession, forgiveness, and transformation. Ultimately,
+Rohr argues that the path of recovery is a path of spiritual
+awakening, and that true healing comes from a deep connection with
+God, ourselves, and others.
 
 ##### What are the top 3 concepts that the book discusses?
 
-The book "A Philosophy of Software Design" covers many important
-concepts related to software design. However, if I had to pick the top 3 concepts discussed in the book, they would be:
+There are many important concepts discussed in Breathing Under Water
+by Richard Rohr, but here are three key ideas that stand out:
 
-1. Modularity: The book emphasizes the importance of modular design,
-   which involves breaking down complex systems into smaller, more
-   manageable pieces. Ousterhout argues that modular design can make it
-   easier to understand, modify, and maintain software over time, by
-   reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
-   a simpler interface, which can make it easier to reason about and
-   modify code. The book discusses how to identify and create good
-   abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
-   simple and avoiding unnecessary complexity. Ousterhout argues that
-   simplicity can make it easier to reason about and modify code, and can
-   also reduce the likelihood of bugs and other errors. The book
-   discusses various techniques for simplifying code, such as reducing
-   redundancy, minimizing the number of code paths, and using simpler
-   data structures.
+1. Addiction as a universal human experience: Rohr argues that
+   addiction is not just a problem for a few individuals, but is a
+   universal human experience. He believes that addiction is rooted
+   in a deep-seated sense of disconnection from ourselves, others,
+   and God, and that we all have a natural tendency to seek ways to
+   numb our pain and distract ourselves from our inner turmoil.
+1. The importance of surrender and letting go: One of the key themes
+   in the book is the idea of surrendering our will and our lives to
+   a higher power. Rohr emphasizes the importance of letting go of
+   our ego-driven desires and allowing God to work in our lives. He
+   believes that surrender is a crucial step in the process of
+   recovery and spiritual growth.
+1. The path of transformation: Rohr offers a framework for
+   understanding the path of transformation that is necessary for
+   recovery and spiritual growth. He draws on Christian teachings and
+   the Twelve-Step program to explore the stages of surrender,
+   awareness, confession, forgiveness, and transformation. He
+   emphasizes that true healing and transformation come from a deep
+   connection with God, ourselves, and others, and that this
+   connection requires us to be vulnerable, honest, and open to the
+   grace of God.

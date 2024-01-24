@@ -1,39 +1,46 @@
 ---
 title: "Working Effectively with Legacy Code"
 featuredImage: "/images/book53-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+amazonLink: "https://a.co/d/8010r5q"
 ---
 
 <!-- Main Theme Details -->
-The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
 
-Throughout the book, Ousterhout discusses various concepts and
-techniques for achieving good software design, including modularization, abstraction, information hiding, simplicity, and generality. He also covers topics such as code organization, naming, documentation, and
-testing.
-
-The overarching goal of the book is to help software developers create
-code that is both functional and easy to modify, with the aim of
-reducing the cost and effort involved in maintaining software over the
-long term.
+The main theme of the book "Working Effectively with Legacy Code" by
+Michael C Feathers is to provide practical techniques and strategies
+for modifying, testing, and understanding legacy code, which is the
+existing codebase that may not have been designed for
+maintainability or testability. The book offers guidance on how to
+make changes to legacy code in a way that reduces the risk of
+introducing defects, and how to add tests to code that wasn't
+originally designed for testing. It also emphasizes the importance
+of understanding the codebase and its dependencies in order to make
+effective changes. Overall, the book aims to help software
+developers and engineers work with and improve legacy codebases in a
+productive and efficient manner.
 
 ##### What are the top 3 concepts that the book discusses?
 
-The book "A Philosophy of Software Design" covers many important
-concepts related to software design. However, if I had to pick the top 3 concepts discussed in the book, they would be:
+The book "Working Effectively with Legacy Code" covers several key
+concepts and techniques for working with legacy code. Here are three
+of the top concepts discussed in the book:
 
-1. Modularity: The book emphasizes the importance of modular design,
-   which involves breaking down complex systems into smaller, more
-   manageable pieces. Ousterhout argues that modular design can make it
-   easier to understand, modify, and maintain software over time, by
-   reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
-   a simpler interface, which can make it easier to reason about and
-   modify code. The book discusses how to identify and create good
-   abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
-   simple and avoiding unnecessary complexity. Ousterhout argues that
-   simplicity can make it easier to reason about and modify code, and can
-   also reduce the likelihood of bugs and other errors. The book
-   discusses various techniques for simplifying code, such as reducing
-   redundancy, minimizing the number of code paths, and using simpler
-   data structures.
+1. The concept of "seams": In the book, Feathers introduces the idea
+   of "seams" in code, which are areas where the code can be changed
+   without affecting the rest of the system. Seams can be used to
+   introduce new functionality or modify existing functionality in
+   legacy code without introducing defects or breaking the system.
+1. Techniques for writing tests for legacy code: One of the biggest
+   challenges with legacy code is that it often wasn't designed with
+   testing in mind. The book covers several techniques for writing
+   tests for legacy code, including the use of test doubles (such as
+   mock objects and test stubs) and the creation of characterization
+   tests to understand the behavior of existing code.
+1. Strategies for making incremental changes to legacy code: The book
+   emphasizes the importance of making incremental changes to legacy
+   code rather than attempting to rewrite the entire codebase from
+   scratch. Feathers offers strategies for making small, safe changes
+   to legacy code, such as refactoring code into smaller, more
+   manageable pieces and introducing new features through the use of
+   "sprout" classes that can be gradually integrated into the
+   existing codebase.

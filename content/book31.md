@@ -1,39 +1,41 @@
 ---
 title: "Ratio"
 featuredImage: "/images/book31-img.jpg"
-amazonLink: "https://a.co/d/aDLq1y9"
+amazonLink: "https://a.co/d/79UDwJk"
 ---
 
 <!-- Main Theme Details -->
-The main theme of the book "A Philosophy of Software Design" by John Ousterhout is to provide a set of principles and guidelines for designing software that is easy to understand, modify, and maintain. Ousterhout argues that the most important aspect of software design is not just making it work, but making it easy to change and evolve over time.
 
-Throughout the book, Ousterhout discusses various concepts and
-techniques for achieving good software design, including modularization, abstraction, information hiding, simplicity, and generality. He also covers topics such as code organization, naming, documentation, and
-testing.
-
-The overarching goal of the book is to help software developers create
-code that is both functional and easy to modify, with the aim of
-reducing the cost and effort involved in maintaining software over the
-long term.
+Ratio by Michael Ruhlman is a cookbook that focuses on the
+fundamental ratios that form the basis of many classic dishes and
+baked goods. The main theme of the book is to teach readers how to
+understand and apply these ratios to create their own variations of
+these dishes, rather than relying on specific recipes. Ruhlman
+argues that by understanding these ratios, home cooks can become
+more confident in the kitchen and create their own unique dishes
+without the need for step-by-step instructions. The book covers a
+wide range of ratios, from those used in bread baking and pastry
+making to those used in sauces, stocks, and custards.
 
 ##### What are the top 3 concepts that the book discusses?
 
-The book "A Philosophy of Software Design" covers many important
-concepts related to software design. However, if I had to pick the top 3 concepts discussed in the book, they would be:
+Here are three key concepts discussed in the book Ratio by Michael
+Ruhlman:
 
-1. Modularity: The book emphasizes the importance of modular design,
-   which involves breaking down complex systems into smaller, more
-   manageable pieces. Ousterhout argues that modular design can make it
-   easier to understand, modify, and maintain software over time, by
-   reducing the complexity of the overall system and allowing developers to focus on individual components.
-1. Abstraction: Abstraction involves hiding implementation details behind
-   a simpler interface, which can make it easier to reason about and
-   modify code. The book discusses how to identify and create good
-   abstractions, as well as how to avoid over-abstraction.
-1. Simplification: The book emphasizes the importance of keeping software
-   simple and avoiding unnecessary complexity. Ousterhout argues that
-   simplicity can make it easier to reason about and modify code, and can
-   also reduce the likelihood of bugs and other errors. The book
-   discusses various techniques for simplifying code, such as reducing
-   redundancy, minimizing the number of code paths, and using simpler
-   data structures.
+1. The importance of ratios in cooking and baking: Ruhlman argues
+   that understanding the ratios of ingredients in a recipe is more
+   important than following the recipe itself. By learning the ratios
+   that form the basis of different types of dishes, such as bread,
+   pasta, and custards, home cooks can create their own unique
+   variations of these dishes without relying on a specific recipe.
+1. The versatility of basic recipes: Ruhlman provides several basic
+   recipes, such as a basic bread dough or a basic vinaigrette, and
+   shows how they can be adapted and customized by changing the
+   ratios of ingredients. This encourages home cooks to experiment
+   and be creative in the kitchen.
+1. The relationship between cooking and math: Ratio emphasizes the
+   importance of understanding basic math concepts, such as fractions
+   and percentages, in cooking and baking. Ruhlman argues that by
+   understanding the math behind cooking, home cooks can become more
+   precise in their measurements and more confident in their ability
+   to create delicious dishes.
