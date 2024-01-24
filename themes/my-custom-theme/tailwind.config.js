@@ -1,0 +1,13 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./layouts/**/*.{html,js}"],
+  theme: {
+    extend: {
+      backgroundImage: {
+        study: "url('/study.jpg')",
+      },
+    },
+  },
+  plugins: [],
+};
+
