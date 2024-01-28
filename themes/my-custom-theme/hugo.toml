@@ -1,6 +1,8 @@
-baseURL = ''
+baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Global Book Summary Project'
+relativeURLs = true
+uglyURLs= true
 
 [module]
   [module.hugoVersion]
