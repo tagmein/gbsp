@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+<div
+  class="px-2 sm:px-4 md:px-8 lg:px-16 xl:px-32 2xl:px-48 pt-8 pb-16 bg-white"
+>
+  <div class="mb-4">
+    <a
+      href="./index.html"
+      class="capitalize block mt-5 text-blue-500 underline hover:no-underline transition-all"
+    >
+      back to home
+    </a>
+  </div>
+
+  <div>
+    <img
+      src="{{.Params.featuredImage}}"
+      alt="book-cover"
+      class="h-[300px] sm:h-[400px] 2xl:h-[450px] w-full object-cover rounded"
+    />
+  </div>
+
+  <div class="mt-4">
+    <h3 class="text-2xl sm:text-3xl font-semibold tracking-wider">
+      {{.Title}}
+    </h3>
+
+    <section>
+      <h4 class="text-xl font-medium">Main Theme</h4>
+
+      <div class="content-wrapper">{{.Content}}</div>
+    </section>
+
+    <a
+      href="{{.Params.amazonLink}}"
+      target="_blank"
+      class="capitalize block mt-5 text-blue-500 underline hover:no-underline transition-all"
+    >
+      buy on amazon
+    </a>
+  </div>
+</div>
+{{ end }}

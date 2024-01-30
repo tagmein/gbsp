@@ -1,0 +1,13 @@
+{
+  "name": "gbsp",
+  "version": "1.0.0",
+  "description": "Global Book Summary Project: Help you find a book to read next",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm --prefix themes/my-custom-theme run build-tailwind && hugo",
+    "start": "hugo server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
