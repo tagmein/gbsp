@@ -5,6 +5,7 @@ amazonLink: "https://a.co/d/1yHEwUT"
 ---
 
 <!-- Main Theme Details -->
+
 I'm sorry, but I don't have any record or knowledge of the book
 "Better Capitalism" by Paul E Knowlton, as my training data only
 goes up to September 2021. However, I can provide a general answer

@@ -31,13 +31,15 @@
       <div class="content-wrapper">{{.Content}}</div>
     </section>
 
-    <a
-      href="{{.Params.amazonLink}}"
-      target="_blank"
-      class="capitalize block mt-5 text-blue-500 underline hover:no-underline transition-all"
-    >
-      buy on amazon
-    </a>
+    <div class="mt-5">
+      <a
+        href="{{.Params.amazonLink}}"
+        target="_blank"
+        class="capitalize block text-blue-500 underline hover:no-underline transition-all"
+      >
+        buy on amazon
+      </a>
+    </div>
   </div>
 </div>
 {{ end }}

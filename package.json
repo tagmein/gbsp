@@ -4,6 +4,7 @@
   "description": "Global Book Summary Project: Help you find a book to read next",
   "main": "index.js",
   "scripts": {
+    "watch": "npm --prefix themes/my-custom-theme run watch-tailwind",
     "build": "npm --prefix themes/my-custom-theme run build-tailwind && hugo",
     "start": "hugo server"
   },
