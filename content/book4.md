@@ -133,4 +133,3 @@ entrepreneurship, business, growth, scaling, innovation, leadership, management,
 ##### Full citation of this book
 
 Hoffman, Reid and Yeh, Chris. Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies. Currency, 2018.
-
