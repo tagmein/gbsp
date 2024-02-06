@@ -90,7 +90,6 @@ Overall, the authors argue that successfully navigating the challenges of hyperg
 
 ##### How can a person apply the information in this book to live a better life?
 
-
 While Blitzscaling is primarily aimed at entrepreneurs and business leaders, there are several insights from the book that could be applied to personal growth and development.
 
 One key takeaway is the importance of taking risks and being willing to experiment. The authors emphasize that in order to achieve rapid growth, companies must be willing to embrace uncertainty and take risks. This same principle can be applied to personal growth, as individuals who are willing to take risks and try new things are often able to achieve greater success and fulfillment.
@@ -134,3 +133,4 @@ entrepreneurship, business, growth, scaling, innovation, leadership, management,
 ##### Full citation of this book
 
 Hoffman, Reid and Yeh, Chris. Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies. Currency, 2018.
+
