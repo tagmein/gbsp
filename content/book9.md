@@ -127,3 +127,4 @@ consciousness, philosophy, science, panpsychism, self, illusion, awareness, mind
 ##### Full citation of this book
 
 Harris, A. (2019). Conscious: A Brief Guide to the Fundamental Mystery of the Mind. HarperCollins Publishers.
+
