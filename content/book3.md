@@ -16,4 +16,3 @@ and the challenges it poses for achieving economic growth, social
 justice, and environmental sustainability. Additionally, the book
 could propose reforms or alternatives to capitalism aimed at making
 it more equitable, efficient, and sustainable.
-
