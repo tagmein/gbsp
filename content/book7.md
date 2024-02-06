@@ -137,4 +137,3 @@ software development, software architecture, software design, clean code, progra
 ##### Full citation of this book
 
 Martin, Robert C. Clean Architecture: A Craftsman's Guide to Software Structure and Design. Prentice Hall, 2017.
-
