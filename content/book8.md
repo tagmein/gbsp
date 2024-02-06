@@ -118,3 +118,4 @@ jesus, christianity, spirituality, faith, forgiveness, love, salvation, relevanc
 ##### Full citation of this book
 
 McLaughlin, Rebecca. Confronting Jesus: Prophet, Revolutionary, Savior. Crossway, 2021.
+
