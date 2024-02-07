@@ -6,11 +6,6 @@ amazonLink: "https://a.co/d/1yHEwUT"
 
 <!-- Main Theme Details -->
 
-I'm sorry, but I don't have any record or knowledge of the book
-"Better Capitalism" by Paul E Knowlton, as my training data only
-goes up to September 2021. However, I can provide a general answer
-about what the main theme of a book on capitalism might be.
-
 The main theme of a book on capitalism could vary depending on the
 author's perspective and focus, but generally, it might explore the
 nature, history, and impact of capitalism as an economic system. The
