@@ -19,7 +19,11 @@ image = "/images/book4-img.jpg"
 fileName = "book4.html"
 
 [[book]]
+<<<<<<< HEAD
 title = "Breathing Under Water"
+=======
+title = "Better Capitalism"
+>>>>>>> bd66dcfdf0a368ba8a564e34d7740f387cc90b44
 image = "/images/book5-img.jpg"
 fileName = "book5.html"
 
