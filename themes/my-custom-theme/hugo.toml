@@ -1,0 +1,10 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Global Book Summary Project'
+relativeURLs = true
+uglyURLs= true
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
