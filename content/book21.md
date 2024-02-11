@@ -60,7 +60,7 @@ The highest levels of consciousness are associated with states of enlightenment 
 
 Hawkins emphasizes that moving up the scale of consciousness is not about suppressing or denying negative emotions but rather about transcending them. He suggests that by becoming more conscious and self-aware, individuals can begin to overcome their negative patterns of behavior and unlock their true potential.
 
-##### Nature of reality
+##### Nature of Reality
 
 The "Nature of Reality" concept from the book I, Reality and Subjectivity by David R. Hawkins, MD, PhD explores the nature of reality and how our perception of reality is shaped by our level of consciousness. The book proposes that reality is not fixed or objective, but rather it is a product of our subjective experience.
 
