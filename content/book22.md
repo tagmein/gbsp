@@ -68,7 +68,6 @@ One way of understanding Radical Orthodoxy is through the concept of "dialectica
 
 Overall, the concept of Radical Orthodoxy challenges us to move beyond simplistic and rigid understandings of religion and spirituality and to engage with tradition in a way that is open to questioning and transformation. By embracing the tension between tradition and innovation, we can cultivate a more honest and authentic engagement with faith and spirituality.
 
-
 ##### Insurrection 
 
 The concept of "Insurrection" is the title and central theme of Peter Rollins' book. This concept proposes a radical reorientation of one's relationship to faith, community, and the world as a way to address the deeper existential questions and struggles of human existence.
