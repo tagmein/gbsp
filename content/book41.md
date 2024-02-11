@@ -107,8 +107,8 @@ There are several reasons why a person might want to read "The Daniel Dilemma" b
 
 Overall, "The Daniel Dilemma" could be a valuable resource for anyone seeking to navigate the complex and challenging issues facing Christians in today's world, and to live out their faith with courage and compassion.
 
-
 ##### Similar books to this book?
+
 Here are three similar books to "The Daniel Dilemma" by Chris Hodges:
 
 1. "Good Faith: Being a Christian When Society Thinks You're Irrelevant and Extreme" by David Kinnaman and Gabe Lyons: This book explores the challenges facing Christians in a secular culture, and offers practical guidance for living out one's faith with integrity and grace.
