@@ -74,7 +74,7 @@ At the same time, Anne's experiences in the annex and her observations of the wo
 
 Overall, the concept of identity and self-discovery in The Diary of a Young Girl serves as a reminder of the importance of exploring and understanding one's own identity, as well as the complexities and challenges that come with this process. Anne's diary is a testament to the power of self-expression and the ways in which writing can help individuals make sense of their experiences and find meaning in their lives.
 
-##### Prejudice and Discrimin
+##### Prejudice and Discrimination
 
 The concept of prejudice and discrimination is a central theme in The Diary of a Young Girl by Anne Frank. The book is a powerful reminder of the devastating impact of bigotry and intolerance, as well as the importance of promoting understanding, tolerance, and respect for diversity.
 
