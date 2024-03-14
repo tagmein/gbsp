@@ -608,8 +608,8 @@ video {
   height: 100%;
 }
 
-.min-h-\[450px\] {
-  min-height: 450px;
+.min-h-\[400px\] {
+  min-height: 400px;
 }
 
 .w-\[200px\] {
@@ -687,6 +687,18 @@ video {
   background-image: url('/study.jpg');
 }
 
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-center {
+  background-position: center;
+}
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
+
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
@@ -715,17 +727,25 @@ video {
   padding-bottom: 4rem;
 }
 
-.pt-32 {
-  padding-top: 8rem;
+.pt-12 {
+  padding-top: 3rem;
 }
 
 .pt-8 {
   padding-top: 2rem;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
+}
+
+.text-\[1\.75rem\] {
+  font-size: 1.75rem;
 }
 
 .text-sm {
@@ -838,8 +858,16 @@ video {
 }
 
 @media (min-width: 640px) {
+  .sm\:mt-14 {
+    margin-top: 3.5rem;
+  }
+
   .sm\:h-\[400px\] {
     height: 400px;
+  }
+
+  .sm\:min-h-\[460px\] {
+    min-height: 460px;
   }
 
   .sm\:grid-cols-2 {
@@ -858,8 +886,16 @@ video {
 }
 
 @media (min-width: 768px) {
+  .md\:mt-16 {
+    margin-top: 4rem;
+  }
+
   .md\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .md\:bg-top {
+    background-position: top;
   }
 
   .md\:px-8 {
@@ -869,6 +905,10 @@ video {
 }
 
 @media (min-width: 1024px) {
+  .lg\:mt-20 {
+    margin-top: 5rem;
+  }
+
   .lg\:grid-cols-4 {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
@@ -915,6 +955,10 @@ video {
 }
 
 @media (min-width: 1536px) {
+  .\32xl\:mt-28 {
+    margin-top: 7rem;
+  }
+
   .\32xl\:h-\[450px\] {
     height: 450px;
   }
